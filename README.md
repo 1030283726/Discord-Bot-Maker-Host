@@ -11,5 +11,12 @@ docker run -d \
   -v path_to_your_bot_folder:/app \
   1030283726/discord-bot-maker-host
 ```
-  
+## Build
+```
+FROM node:latest
+
+WORKDIR /app
+
+CMD ["node", "bot.js"]
+```
 
