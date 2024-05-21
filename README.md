@@ -2,7 +2,7 @@
 
 ## Perpuse
 
-This Docker image able to run the bot which base on nodejs or made by  [Discord Bot Maker (DBM)](https://store.steampowered.com/app/682130/Discord_Bot_Maker/ "Discord Bot Maker")
+A simple Docker image able to run the Discord bot which base on node.js or made by  [Discord Bot Maker (DBM)](https://store.steampowered.com/app/682130/Discord_Bot_Maker/ "Discord Bot Maker")
 
 ## Delploy on Docker
 ```
