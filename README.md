@@ -2,7 +2,7 @@
 
 ## Why i need this ?
 
-This Docker image able to run the bot which base on nodejs or made by  [Discord Bot maker](https://store.steampowered.com/app/682130/Discord_Bot_Maker/ "Discord Bot maker")
+This Docker image able to run the bot which base on nodejs or made by  [Discord Bot Maker (DBM)](https://store.steampowered.com/app/682130/Discord_Bot_Maker/ "Discord Bot Maker")
 
 ## Delploy on Docker
 ```
